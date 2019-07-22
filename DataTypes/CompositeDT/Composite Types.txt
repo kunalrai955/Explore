@@ -1,4 +1,0 @@
-Composite types or non-primitive type
-Array (as an example String which is an array of characters)
-Record (also called tuple or structure)
-Union (Tagged union is a subset, also called variant, variant record, discriminated union, or disjoint union)

@@ -1,4 +1,5 @@
-Trees
+Trees consists of root node and child node.
+Trees 
 In these data structures each tree node compares a bit slice of key values.
 
 Tree (data structure)
