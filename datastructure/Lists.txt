@@ -1,0 +1,15 @@
+ists
+Doubly linked list
+Array list
+Linked list
+Association list
+Self-organizing list
+Skip list
+Unrolled linked list
+VList
+Conc-tree list
+Xor linked list
+Zipper
+Doubly connected edge list also known as half-edge
+Difference list
+Free list

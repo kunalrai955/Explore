@@ -1,0 +1,16 @@
+Many graph-based data structures are used in computer science and related fields:
+
+Graph
+Adjacency list
+Adjacency matrix
+Graph-structured stack
+Scene graph
+Decision tree
+Binary decision diagram
+Zero-suppressed decision diagram
+And-inverter graph
+Directed graph
+Directed acyclic graph
+Propositional directed acyclic graph
+Multigraph
+Hypergraph

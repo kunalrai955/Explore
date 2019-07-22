@@ -1,0 +1,22 @@
+Abstract data types
+Container
+List
+Tuple
+Multimap (example Associative array)
+Set
+Multiset (bag)
+Stack
+Queue (example Priority queue)
+Double-ended queue
+Graph (example Tree, Heap)
+Some properties of abstract data types:
+
+Structure	Order	Unique
+List	yes	no
+Associative array	no	yes
+Set	no	yes
+Stack	yes	no
+Multimap	no	no
+Multiset (bag)	no	no
+Queue	yes	no
+Order means the insertion sequence counts. Unique means that duplicate elements are not allowed, based on some inbuilt or, alternatively, user-defined rule for comparing elements.
